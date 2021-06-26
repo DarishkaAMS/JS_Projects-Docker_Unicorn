@@ -1,2 +1,3 @@
 # JS_Projects-Docker_Unicorn
-Docker Tryout 
+JS + Docker Tryout 
+Learn Docker - DevOps with Node.js & Express
