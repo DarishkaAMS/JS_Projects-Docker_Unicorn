@@ -1,0 +1,35 @@
+0:26:36 Dockerignore file
+0:31:46 Syncing source code with bind mounts
+0:45:30 Anonymous Volumes hack
+0:51:58 Read-Only Bind Mounts
+0:54:58 Environment variables
+0:59:16 loading environment variables from file
+1:01:31 Deleting stale volumes
+1:04:01 Docker Compose
+1:21:36 Development vs Production configs
+
+Part 02: Working with multiple containers
+1:44:47 Adding a Mongo Container
+2:01:48 Communicating between containers
+2:12:00 Express Config file
+2:21:45 Container bootup order
+2:32:26 Building a CRUD application
+2:51:27 Sign up and Login
+3:06:57 Authentication with sessions & Redis
+3:34:36 Architecture Review
+3:40:48 Nginx for Load balancing to multiple node containers
+3:54:33 Express CORS
+
+Part 03: Moving to Prod
+3:57:44 Installing docker on Ubuntu(Digital Ocean)
+4:03:21 Setup Git
+4:05:37 Environment Variables on Ubuntu
+4:14:12 Deploying app to production server
+4:18:57 Pushing changes the hard way
+4:25:58 Rebuilding Containers
+4:27:32 Dev to Prod workflow review
+4:30:50 Improved Dockerhub workflow
+4:46:10 Automating with watchtower 
+4:56:06 Why we need an orchestrator
+5:03:32 Docker Swarm
+5:16:13 Pushing changes to Swarm stack
