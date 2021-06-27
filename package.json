@@ -1,0 +1,23 @@
+{
+  "name": "docker_unicorn",
+  "version": "1.0.0",
+  "description": "JS + Docker Tryout \r Learn Docker - DevOps with Node.js & Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarishkaAMS/JS_Projects-Docker_Unicorn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarishkaAMS/JS_Projects-Docker_Unicorn/issues"
+  },
+  "homepage": "https://github.com/DarishkaAMS/JS_Projects-Docker_Unicorn#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
