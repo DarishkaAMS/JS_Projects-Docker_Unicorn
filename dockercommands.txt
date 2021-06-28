@@ -1,5 +1,4 @@
-Python_Tools-Docker_Connection
-Docekr Commands 
+DOCKER COMMANDS
 
 docker-compose up
 docker-compose exec backend sh
@@ -10,6 +9,8 @@ docker image ls - list of images
 docker ps - list of containers
 docker image rm 526a6e9 - remove the image with ID 526a6e9 
 docker rm < container name > - remove the container by name 
-docker run -v ${pwd}:/app -p 3000:3000 -d --name unicorn-app unicorn-app-image - run image and sync
+docker run -v ${pwd}:/app -v /app/node_modules -p 3000:3000 -d --name unicorn-app unicorn-app-image - run image and sync and without NODE_MODULES
 
 docker exec -it unicorn-app bash + ls  - to see all the fiiles in dir
+
+docker logs unicorn-app - to find the ERROR
