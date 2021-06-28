@@ -6,13 +6,13 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon -L index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DarishkaAMS/JS_Projects-Docker_Unicorn.git"
   },
-  "author": "",
+  "author": "DarishkaAMS",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DarishkaAMS/JS_Projects-Docker_Unicorn/issues"
